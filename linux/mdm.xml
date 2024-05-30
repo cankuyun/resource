@@ -3,9 +3,10 @@
   <key>organization</key>
   <string>udns</string>
   <key>auth_client_id</key>
-  <string>your_client_id_access_value</string>
+  <string>CF-Access-Client-Id: 0c93876982ef5bdb37aea93349e4287e.access</string>
   <key>auth_client_secret</key>
-  <string>your_client_secret_value</string>
+  <string>CF-Access-Client-Secret: 87d041233f1bebe9f13c7e3ad856a8ef54029662ea49c1f5a99ad0a477ecf579</string>
   <key>warp_connector_token</key>
   <string>eyJhIjoiNmUxNmMyZTNjOTVjMzFjYjc5ZmM0MmFmZjFjOTU3NDYiLCJ0IjoiYWFjNjQzMDMtZWFlMC00OTA3LWE5MjItNDNlNmY2NjNhNDg3IiwicyI6IitKK2pNSmNMY0lCMnQvVUxYdzR6NHJlNWNjbWZxTGRjTWVZdnpXVlloenVCMEVzVVRZVFUvcnovc1FWUTMyeUNhNDNDWTkxU2xyYUlRaUsyUU1QMnR3PT0ifQ==</string>
 </dict>
+
