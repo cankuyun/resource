@@ -1,0 +1,11 @@
+
+<dict>
+  <key>organization</key>
+  <string>udns</string>
+  <key>auth_client_id</key>
+  <string>your_client_id_access_value</string>
+  <key>auth_client_secret</key>
+  <string>your_client_secret_value</string>
+  <key>warp_connector_token</key>
+  <string>eyJhIjoiNmUxNmMyZTNjOTVjMzFjYjc5ZmM0MmFmZjFjOTU3NDYiLCJ0IjoiYWFjNjQzMDMtZWFlMC00OTA3LWE5MjItNDNlNmY2NjNhNDg3IiwicyI6IitKK2pNSmNMY0lCMnQvVUxYdzR6NHJlNWNjbWZxTGRjTWVZdnpXVlloenVCMEVzVVRZVFUvcnovc1FWUTMyeUNhNDNDWTkxU2xyYUlRaUsyUU1QMnR3PT0ifQ==</string>
+</dict>
